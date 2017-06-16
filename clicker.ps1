@@ -1,0 +1,1 @@
+.\curl\curl.exe curl -v --header "Connection: keep-alive" "http://nextclick.pl/widget/redirect.php?id=1496238132041780&key=64F2-9389-907A-45C3-1c1weX&domain=wpolityce.pl&loc=2739623358945765913164529494315307059905185555962876832349368052:|SGFtYnVyZw==&pid=40276951&pv=bfd48b5a-51f5-11e7-8c51-000000000000"
